@@ -858,6 +858,4 @@ if(!message.member.permissions.has("MUTE_MEMBERS")) return message.channel.send(
 });  
 
 
-client.login(process.env.token).catch((error) => {
-console.warn("\033[31m Token Invalid")
-})
+client.login('OTk5NTE3MzgwODc3MjMwMTQw.G8vOz3.3XMpeGbx7wbJsySZr3yigvBBu-u6eXhcGYx1ac');
